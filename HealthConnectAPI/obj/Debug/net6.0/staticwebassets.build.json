@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b2wbP2xsahjpYfzaxCIT0MCmCBoMb7mTiQfpdWq+YZw=",
+  "Source": "HealthConnectAPI",
+  "BasePath": "_content/HealthConnectAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
