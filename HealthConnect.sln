@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthConnectAPI", "HealthConnectAPI\HealthConnectAPI.csproj", "{559BAD5B-DC68-47DA-8F81-6B47A8BB53F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthConnectAPI", "HealthConnectAPI\HealthConnectAPI.csproj", "{559BAD5B-DC68-47DA-8F81-6B47A8BB53F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthConnectWeb", "HealthConnectWeb\HealthConnectWeb.csproj", "{517F715E-505E-4009-BC64-CDD43C228F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthConnect_Utility", "HealthConnect_Utility\HealthConnect_Utility.csproj", "{35166D8F-07AE-46EA-AA8C-E49C3A1662B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{559BAD5B-DC68-47DA-8F81-6B47A8BB53F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{559BAD5B-DC68-47DA-8F81-6B47A8BB53F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559BAD5B-DC68-47DA-8F81-6B47A8BB53F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517F715E-505E-4009-BC64-CDD43C228F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517F715E-505E-4009-BC64-CDD43C228F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517F715E-505E-4009-BC64-CDD43C228F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517F715E-505E-4009-BC64-CDD43C228F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35166D8F-07AE-46EA-AA8C-E49C3A1662B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35166D8F-07AE-46EA-AA8C-E49C3A1662B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35166D8F-07AE-46EA-AA8C-E49C3A1662B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35166D8F-07AE-46EA-AA8C-E49C3A1662B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

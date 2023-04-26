@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectWeb\\HealthConnectWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectWeb\\HealthConnectWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectWeb\\HealthConnectWeb.csproj",
+        "projectName": "HealthConnectWeb",
+        "projectPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectWeb\\HealthConnectWeb.csproj",
+        "packagesPath": "C:\\Users\\mpano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mpano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\HealthConnect_Utility.csproj": {
+                "projectPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\HealthConnect_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\HealthConnect_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\HealthConnect_Utility.csproj",
+        "projectName": "HealthConnect_Utility",
+        "projectPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\HealthConnect_Utility.csproj",
+        "packagesPath": "C:\\Users\\mpano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnect_Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mpano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

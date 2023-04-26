@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s893aKkEYWX1RSNROfF1N7Pdo5ua5Djsc1QyysoFUw/nTo0/spaufTqA/DNKwBXl6xBQAdIvS7kPJgrjRVtZHA==",
+  "dgSpecHash": "WBnGJMRIVg6Mk/mXNcDbWydSbYJXnKCF1Cwrgb8HPAA25fXSE47nuuEkXjSQkdTUzxzWMep/3M9ENi/bC9kVgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
+  "projectFilePath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mpano\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mpano\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

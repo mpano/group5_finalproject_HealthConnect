@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj": {}
+    "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj": {
+    "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
         "projectName": "HealthConnectAPI",
-        "projectPath": "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
+        "projectPath": "C:\\Users\\mpano\\Source\\Repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\HealthConnectAPI.csproj",
         "packagesPath": "C:\\Users\\mpano\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpano\\source\\repos\\group5_finalproject_HealthConnect\\HealthConnectAPI\\obj\\",
         "projectStyle": "PackageReference",
